@@ -1,0 +1,16 @@
+*.lps
+*.compiled
+tmp/
+bin/berserk
+*.res
+bin/log.txt
+temp/
+src/Makefile
+src/liblua5.1.a
+src/fpcmade.x86_64-linux
+src/backup/
+bin/*.dll
+bin/score.dat
+bin/mortem.txt
+bin/error.log
+*.exe
